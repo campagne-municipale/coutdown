@@ -1236,7 +1236,7 @@ input::-moz-focus-inner {
   line-height: 1.8;
   color: #fcd18b;
   text-shadow: 0px 0px 3px #333;
-  margin-top: 6.6rem;
+  margin-top: 2.6rem;
   margin-right: 15%;
 }
 
@@ -1960,9 +1960,9 @@ html.no-csstransitions .home-content__main {
   transition: visibility 0s 0.7s;
 }
 
-.big {
-  font-size: 1.8rem;
-  color: rgba(255, 255, 255, 0.7);
+.gris {
+  font-size: 1.8rem !important;
+  color: rgba(255, 255, 255, 0.7) !important;
 }
 .s-info a {
   color: #FFFFFF;
