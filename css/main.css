@@ -1108,7 +1108,7 @@ input::-moz-focus-inner {
   background-image: url(../images/fertig02.png);
 }
 
-.s-home--static::before {
+/* .s-home--static::before {
   display: block;
   content: "";
   position: absolute;
@@ -1118,7 +1118,7 @@ input::-moz-focus-inner {
   height: 100%;
   opacity: .5;
   background: linear-gradient(to right, black 0%, black 20%, transparent 100%);
-}
+} */
 
 
 .s-home .overlay {
@@ -1950,7 +1950,7 @@ html.no-csstransitions .home-content__main {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #163727;
+  background-color: #132119;
   color: rgba(255, 255, 255, 0.6);
   padding: 21rem 0 9rem;
   overflow-y: auto;
